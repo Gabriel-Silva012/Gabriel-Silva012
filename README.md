@@ -3,12 +3,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2EA043&height=130&section=header" alt="Header" />
 </div>
 
-<!-- Nome Estático em Estilo Relógio Digital (Aparece Imediato) -->
+<!-- Nome Estático em Estilo Relógio Digital -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=600&size=24&duration=10&pause=99999999&color=00FF66&center=true&vCenter=true&width=750&lines=Gabriel+Gon%C3%A7alves" alt="Gabriel Gonçalves" />
 </div>
 
-<!-- Subtítulo com Infos que Ficam Mudando -->
+<!-- Subtítulo Animado -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;Java+%26+C%2B%2B+Developer;Software+Engineering+Enthusiast" alt="Typing SVG" />
 </div>
@@ -64,8 +64,11 @@
 ### 📊 Estatísticas e Constância
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Silva012&show_icons=true&title_color=2EA043&icon_color=2EA043&text_color=9f9f9f&bg_color=00000000&hide_border=true" alt="Estatísticas"/>
+  <br><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Silva012&layout=compact&langs_count=6&title_color=2EA043&icon_color=2EA043&text_color=9f9f9f&bg_color=00000000&hide_border=true" alt="Linguagens mais utilizadas"/>
 </div>
+
+<br>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Silva012&ring=2EA043&fire=2EA043&currStreakNum=2EA043&currStreakLabel=9f9f9f&sideNums=9f9f9f&sideLabels=9f9f9f&dates=9f9f9f&hide_border=true&background=00000000" alt="GitHub Streak"/>
