@@ -3,12 +3,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2EA043&height=130&section=header" alt="Header" />
 </div>
 
-<!-- Nome com Estilo Relógio Digital / Pixel Art (Press Start 2P) -->
+<!-- Nome Estático em Estilo Relógio Digital (Aparece Imediato) -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=600&size=24&pause=1000&color=00FF66&center=true&vCenter=true&width=750&lines=Gabriel+Gon%C3%A7alves&repeat=false" alt="Gabriel Gonçalves" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=600&size=24&duration=10&pause=99999999&color=00FF66&center=true&vCenter=true&width=750&lines=Gabriel+Gon%C3%A7alves" alt="Gabriel Gonçalves" />
 </div>
 
-<!-- Subtítulo Animado em Verde -->
+<!-- Subtítulo com Infos que Ficam Mudando -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;Java+%26+C%2B%2B+Developer;Software+Engineering+Enthusiast" alt="Typing SVG" />
 </div>
