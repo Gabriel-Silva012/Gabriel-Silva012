@@ -1,18 +1,13 @@
-<div style="background: linear-gradient(to bottom, #000000 0%, #0d1f12 50%, #000000 100%); padding: 30px; border-radius: 15px;">
-
-<!-- Cabeçalho (Onda Verde e Preta) -->
+<!-- Banner de Fundo Superior (Degradê Verde e Preto) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2EA043&height=120&section=header" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2EA043&height=180&section=header&text=Gabriel%20Gon%C3%A7alves&fontColor=00FF66&fontSize=35&fontAlignY=45" alt="Header" />
 </div>
 
-<!-- Nome com Estilo Relógio Digital / Pixel Art (Press Start 2P) -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=600&size=26&pause=1000&color=00FF66&center=true&vCenter=true&width=750&lines=Gabriel+Gon%C3%A7alves&repeat=false" alt="Gabriel Gonçalves" />
-</div>
+<br>
 
-<!-- Subtítulo Animado em Verde Limpo -->
+<!-- Subtítulo Animado -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;Java+%26+C%2B%2B+Developer;Software+Engineering+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;Java+%26+C%2B%2B+Developer;Software+Engineering+Enthusiast" alt="Typing SVG" />
 </div>
 
 <!-- Contato -->
@@ -22,6 +17,8 @@
   </a>
 </div>
 
+<br>
+<hr style="border: 0; height: 1px; background: #2EA043; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), #2EA043, rgba(0, 0, 0, 0));">
 <br>
 
 ### 👨🏻‍💻 Sobre Mim
@@ -38,13 +35,13 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="50%" style="background-color: rgba(0,0,0,0.5); border-radius: 10px;">
+      <td align="center" width="50%">
         <b>💻 Linguagens Principais</b><br><br>
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=java,c,cpp,python&theme=dark" alt="Linguagens" />
         </a>
       </td>
-      <td align="center" width="50%" style="background-color: rgba(0,0,0,0.5); border-radius: 10px;">
+      <td align="center" width="50%">
         <b>⚙️ Ferramentas & SO</b><br><br>
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=linux,ubuntu,git,github,vscode,bash&theme=dark" alt="Ferramentas" />
@@ -75,9 +72,7 @@
 
 <br>
 
-<!-- Rodapé Animado -->
+<!-- Rodapé Animado (Preto para Verde) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA043,100:000000&height=80&section=footer" alt="Footer" />
-</div>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA043,100:000000&height=120&section=footer" alt="Footer" />
 </div>
