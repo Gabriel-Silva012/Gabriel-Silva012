@@ -3,9 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2EA043&height=120&section=header" alt="Header" />
 </div>
 
-<!-- Nome com Fonte Refinada (Montserrat) -->
+<!-- Nome com Fonte Refinada (Montserrat Corrigida) -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=40&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Gabriel+Gonçalves&repeat=false" alt="Gabriel Gonçalves" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=40&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Gabriel+Gon%C3%A7alves&repeat=false" alt="Gabriel Gonçalves" />
 </div>
 
 <!-- Subtítulo Animado em Cinza Claro -->
