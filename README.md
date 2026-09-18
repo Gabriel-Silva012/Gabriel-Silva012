@@ -54,22 +54,7 @@
 
 <br>
 
-### 🏆 Conquistas & Troféus 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gabriel-Silva012&row=1&column=7&no-frame=true&no-bg=true&theme=dark" alt="Troféus GitHub" />
-</div>
-
-<br>
-
-### 📊 Estatísticas e Constância
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Silva012&show_icons=true&title_color=2EA043&icon_color=2EA043&text_color=9f9f9f&bg_color=00000000&hide_border=true" alt="Estatísticas"/>
-  <br><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Silva012&layout=compact&langs_count=6&title_color=2EA043&icon_color=2EA043&text_color=9f9f9f&bg_color=00000000&hide_border=true" alt="Linguagens mais utilizadas"/>
-</div>
-
-<br>
-
+### 📊 Consistência no GitHub
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Silva012&ring=2EA043&fire=2EA043&currStreakNum=2EA043&currStreakLabel=9f9f9f&sideNums=9f9f9f&sideLabels=9f9f9f&dates=9f9f9f&hide_border=true&background=00000000" alt="GitHub Streak"/>
 </div>
