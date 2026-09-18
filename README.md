@@ -22,30 +22,30 @@
 
 <br>
 
-### 👨🏻‍💻 Sobre Mim
-> Estudante de **Ciência da Computação** na UESB. 
-> Movido por desafios complexos e pela construção de softwares eficientes e escaláveis.
+### 👨🏻‍💻 About Me
+> Computer Science undergraduate at UESB. 
+> Driven by complex challenges and building efficient, scalable software.
 
-- 🎓 **Foco atual:** Engenharia de Software, Estruturas de Dados e Arquitetura de Sistemas.
-- 💻 **Linguagens principais:** Java, C++, C e Python.
-- 🚀 **Objetivo:** Criar soluções de alto impacto através de código limpo e otimizado.
+- 🎓 **Current focus:** Software Engineering, Data Structures, and System Architecture.
+- 💻 **Main languages:** Java, C++, C, and Python.
+- 🚀 **Objective:** To build high-impact solutions through clean and optimized code.
 
 <br>
 
-### 🛠️ Tech Stack & Ferramentas
+### 🛠️ Tech Stack & Tools
 <div align="center">
   <table>
     <tr>
       <td align="center" width="50%">
-        <b>💻 Linguagens Principais</b><br><br>
+        <b>💻 Main Languages</b><br><br>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=java,c,cpp,python&theme=dark" alt="Linguagens" />
+          <img src="https://skillicons.dev/icons?i=java,c,cpp,python&theme=dark" alt="Languages" />
         </a>
       </td>
       <td align="center" width="50%">
-        <b>⚙️ Ferramentas & SO</b><br><br>
+        <b>⚙️ Tools & OS</b><br><br>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=linux,ubuntu,git,github,vscode,bash&theme=dark" alt="Ferramentas" />
+          <img src="https://skillicons.dev/icons?i=linux,ubuntu,git,github,vscode,bash&theme=dark" alt="Tools" />
         </a>
       </td>
     </tr>
@@ -54,7 +54,7 @@
 
 <br>
 
-### 📊 Consistência no GitHub
+### 📊 GitHub Streak
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Silva012&ring=2EA043&fire=2EA043&currStreakNum=2EA043&currStreakLabel=9f9f9f&sideNums=9f9f9f&sideLabels=9f9f9f&dates=9f9f9f&hide_border=true&background=00000000" alt="GitHub Streak"/>
 </div>
